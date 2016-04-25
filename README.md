@@ -1,2 +1,2 @@
 # repo2
-practise
+this repository is used for practises
